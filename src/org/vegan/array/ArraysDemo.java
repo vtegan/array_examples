@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Great utility class for arrays.  Also, the class is generic, so it can work on any type of array.
  * See:  http://codereview.stackexchange.com/questions/57457/program-to-insert-search-for-and-delete-an-element-from-an-array
- * @author u326406
+ * @author vtegan
  *
  * @param <T>
  */
