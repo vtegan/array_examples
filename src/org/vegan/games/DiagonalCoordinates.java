@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * Class deals with diagonal coordinates.
  * @author tegan
  *
  */

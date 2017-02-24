@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.egan.array;
+package org.vegan.array;
 
 import java.util.Arrays;
 
