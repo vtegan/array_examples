@@ -17,6 +17,7 @@ public class ArraysDemo<T> {
 
 	private final T[] destValues;
 
+	@SafeVarargs
 	public ArraysDemo(T... values) {
 
 		this.srcValues = values.clone();  // make sure you initialize the array by cloning it.
