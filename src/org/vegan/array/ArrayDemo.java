@@ -6,6 +6,7 @@ public class ArrayDemo {
 		
 		//Add comment.
 		//Add a second comment.
+		//Add a third comment, now that we did a fetch, we can push.
 		System.out.println("Array Demo.");
 	}
 
